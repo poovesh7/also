@@ -1,0 +1,1 @@
+web gunicorn postsribers.wsgi:application --log-file -
